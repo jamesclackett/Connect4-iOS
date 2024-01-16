@@ -20,11 +20,11 @@ It was also necessary to implement persistence using Core Data in order to allow
 
 #### _Compact Screen Size_
 
-<img width="500" alt="image" src="https://github.com/jamesclackett/iOS-Connect4-Game/assets/55019466/badf86f3-16e4-4b3e-9d2b-980ce136fd9c">
+<img width="600" alt="image" src="https://github.com/jamesclackett/iOS-Connect4-Game/assets/55019466/badf86f3-16e4-4b3e-9d2b-980ce136fd9c">
 
 #### _Large Screen Size_
 
-<img width="500" alt="image" src="https://github.com/jamesclackett/iOS-Connect4-Game/assets/55019466/d5bccef2-4b76-4824-b122-896d891328b3">
+<img width="600" alt="image" src="https://github.com/jamesclackett/iOS-Connect4-Game/assets/55019466/d5bccef2-4b76-4824-b122-896d891328b3">
 
 ---
 
