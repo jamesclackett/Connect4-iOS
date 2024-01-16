@@ -4,7 +4,7 @@
 
 A UIKIT application project for my CompSci MSc Swift module.
 
-We were tasked with creating a Connect 4 game using the provided Alpha-0C4 deep learning Bot. It was necessary to implement a UI so that a user can play against the bot.
+We were tasked with creating a Connect 4 game using the provided Alpha-0C4 deep learning bot. It was necessary to implement a UI so that a user can play against the bot.
 It was also necessary to implement persistence using Core Data in order to allow the saving and continuing of games.
 
 **Please note, I do not have the rights to publish the Alpha-0C4 library. To run this application, another similar bot may be used in its place**
